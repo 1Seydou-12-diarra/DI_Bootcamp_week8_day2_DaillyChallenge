@@ -13,8 +13,8 @@ il aura zero donné ou ligne  à la sortie
 
 -- reponse
 
- on aura  1 ligne non null dont id est 5
-
+ on aura   2
+ resultat 
 -- reponse
 
 --Q3 SELECT COUNT(*) 
